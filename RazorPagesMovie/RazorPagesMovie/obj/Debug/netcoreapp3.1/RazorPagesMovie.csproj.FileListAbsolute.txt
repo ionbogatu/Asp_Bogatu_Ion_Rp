@@ -168,4 +168,3 @@ D:\dotnet\Asp_Bogatu_Ion_Rp\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp
 D:\dotnet\Asp_Bogatu_Ion_Rp\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Details.cshtml.g.cs
 D:\dotnet\Asp_Bogatu_Ion_Rp\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Edit.cshtml.g.cs
 D:\dotnet\Asp_Bogatu_Ion_Rp\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Index.cshtml.g.cs
-D:\dotnet\Asp_Bogatu_Ion_Rp\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp3.1\RazorPagesMovie.csprojAssemblyReference.cache
