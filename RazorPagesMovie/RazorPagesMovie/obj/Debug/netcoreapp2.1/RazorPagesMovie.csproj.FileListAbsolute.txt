@@ -1,0 +1,14 @@
+D:\dotnet\Asp_Bogatu_Ion_Rp\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\dotnet\Asp_Bogatu_Ion_Rp\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreapp2.1\appsettings.json
+D:\dotnet\Asp_Bogatu_Ion_Rp\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\dotnet\Asp_Bogatu_Ion_Rp\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreapp2.1\RazorPagesMovie.deps.json
+D:\dotnet\Asp_Bogatu_Ion_Rp\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreapp2.1\RazorPagesMovie.runtimeconfig.json
+D:\dotnet\Asp_Bogatu_Ion_Rp\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreapp2.1\RazorPagesMovie.runtimeconfig.dev.json
+D:\dotnet\Asp_Bogatu_Ion_Rp\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreapp2.1\RazorPagesMovie.dll
+D:\dotnet\Asp_Bogatu_Ion_Rp\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.csprojAssemblyReference.cache
+D:\dotnet\Asp_Bogatu_Ion_Rp\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.AssemblyInfoInputs.cache
+D:\dotnet\Asp_Bogatu_Ion_Rp\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.AssemblyInfo.cs
+D:\dotnet\Asp_Bogatu_Ion_Rp\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.genruntimeconfig.cache
+D:\dotnet\Asp_Bogatu_Ion_Rp\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.csproj.CoreCompileInputs.cache
+D:\dotnet\Asp_Bogatu_Ion_Rp\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.RazorAssemblyInfo.cache
+D:\dotnet\Asp_Bogatu_Ion_Rp\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.RazorAssemblyInfo.cs
