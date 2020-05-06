@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DatabaseORM</id>
+    <version>1.0.0</version>
+    <authors>DatabaseORM</authors>
+    <owners>DatabaseORM</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\dotnet\Asp_Bogatu_Ion_Rp\RazorPagesMovie\DatabaseORM\bin\Debug\netcoreapp3.1\DatabaseORM.dll" target="lib\netcoreapp3.1\DatabaseORM.dll" />
+  </files>
+</package>

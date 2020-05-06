@@ -1,0 +1,9 @@
+D:\dotnet\Asp_Bogatu_Ion_Rp\RazorPagesMovie\DatabaseORM\bin\Debug\netcoreapp3.1\DatabaseORM.deps.json
+D:\dotnet\Asp_Bogatu_Ion_Rp\RazorPagesMovie\DatabaseORM\bin\Debug\netcoreapp3.1\DatabaseORM.dll
+D:\dotnet\Asp_Bogatu_Ion_Rp\RazorPagesMovie\DatabaseORM\bin\Debug\netcoreapp3.1\DatabaseORM.pdb
+D:\dotnet\Asp_Bogatu_Ion_Rp\RazorPagesMovie\DatabaseORM\obj\Debug\netcoreapp3.1\DatabaseORM.csprojAssemblyReference.cache
+D:\dotnet\Asp_Bogatu_Ion_Rp\RazorPagesMovie\DatabaseORM\obj\Debug\netcoreapp3.1\DatabaseORM.csproj.CoreCompileInputs.cache
+D:\dotnet\Asp_Bogatu_Ion_Rp\RazorPagesMovie\DatabaseORM\obj\Debug\netcoreapp3.1\DatabaseORM.AssemblyInfoInputs.cache
+D:\dotnet\Asp_Bogatu_Ion_Rp\RazorPagesMovie\DatabaseORM\obj\Debug\netcoreapp3.1\DatabaseORM.AssemblyInfo.cs
+D:\dotnet\Asp_Bogatu_Ion_Rp\RazorPagesMovie\DatabaseORM\obj\Debug\netcoreapp3.1\DatabaseORM.dll
+D:\dotnet\Asp_Bogatu_Ion_Rp\RazorPagesMovie\DatabaseORM\obj\Debug\netcoreapp3.1\DatabaseORM.pdb
